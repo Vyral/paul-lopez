@@ -18,7 +18,7 @@ tags:
   - Home Seller Tips
 ---
 
-Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
+Our market remains busy, and it’s still an opportune time to command a high price selling your home. &nbsp;
 
 I know what’s happening in the San Joaquin and Alameda County areas, specifically pertaining to home values, that will directly affect you.
 
