@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering the 3 Most Common Questions I Hear From Clients
-date:
+date: 2019-02-07 19:32:01
 tags:
   - Real Estate
 excerpt: >-
