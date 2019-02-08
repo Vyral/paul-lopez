@@ -22,4 +22,4 @@ Over the last 18 years, I’ve answered countless questions from homebuyers and 
 
 0:50- Is it a good time to buy a home right now?<br>4:32- Is it a good time to sell a home right now?<br>7:08- What geographical areas do my team and I cover in California?
 
-I hope you found the answers to these common questions helpful. **No matter what your situation is, we’re always happy to help you achieve your real estate goals.** If you have any additional questions for me, don’t hesitate to reach out. I would love to hear from you.
+I hope you found the answers to these common questions helpful. **No matter what your situation is, I'm always happy to help you achieve your real estate goals.** If you have any additional questions for me, don’t hesitate to reach out. I would love to hear from you.
