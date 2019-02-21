@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mistakes to Steer Clear From If You’re Looking to Rent
+title: Mistakes to Steer Clear From if You’re Looking to Rent
 date: 2019-02-21 18:24:00
 tags:
 excerpt: >-
@@ -18,9 +18,9 @@ youtube_code: CyU8FvQxn7E
 
 {% include youtube.html %}
 
-18 years ago I got my start in real estate as a mortgage loan officer, later transitioning into a job as an agent, and finally landing in my current role: property management. I take a lot of pride and joy in helping countless families rent homes as an alternative to purchasing a home.
+18 years ago, I got my start in real estate as a mortgage loan officer. After later transitioning into a job as an agent, I finally landed in my current role: property management. I take a lot of pride and joy in helping countless families rent homes as an alternative to purchasing a home.
 
-Today I’m going to delve further into my philosophy on renting, so follow along in the video above to learn more
+Today I’m going to delve further into my philosophy on renting, so follow along in the video above to learn more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
