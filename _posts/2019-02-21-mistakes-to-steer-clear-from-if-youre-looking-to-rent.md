@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: CyU8FvQxn7E
+youtube_code: mrXwUP2Y5wc
 ---
 
 {% include youtube.html %}
@@ -22,7 +22,7 @@ youtube_code: CyU8FvQxn7E
 
 Today I’m going to delve further into my philosophy on renting, so follow along in the video above to learn more.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
 
 0:48 - My philosophy on renting
 
