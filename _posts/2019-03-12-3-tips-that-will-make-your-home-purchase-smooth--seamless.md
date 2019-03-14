@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 2 Tips That Will Make Your Home Purchase Smooth & Seamless
-date: 2019-03-12 21:21:01
+title: 3 Tips That Will Make Your Home Purchase Smooth & Seamless
+date: 2019-03-12 21:21:00
 tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  Are you preparing to buy a home? Here are a couple of tips that will help you
-  from a financial perspective.
+  Are you preparing to buy a home? Here are a few tips that will help you from a
+  financial perspective.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Paul+Lopez/Paul+Lopez+Real+Estate+_+2+Tips+That+Will+Make+Your+Home+Purchase+Smooth+%26+Seamless.mp4
 pullquote: You can’t forget about your closing costs.
@@ -20,7 +20,7 @@ youtube_code: E8Q3chhbuu8
 
 {% include youtube.html %}
 
-Whether you’re a first-time homebuyer or a veteran homebuyer, there are a couple of tips you need to remember to make your purchase as smooth and seamless as possible from a financial perspective.&nbsp;
+Whether you’re a first-time homebuyer or a veteran homebuyer, there are a few tips you need to remember to make your purchase as smooth and seamless as possible from a financial perspective.&nbsp;
 
 First, **consider your closing costs**. If you’re a first-time homebuyer, you can get a mortgage loan that requires a down payment of as little as 3%, but you can’t forget about your closing costs.&nbsp;
 
@@ -33,6 +33,8 @@ If you enter into a purchase agreement and you don’t have the necessary funds 
 Second, **make sure you know the home’s true condition**. The seller is required to disclose everything they know about the home, but oftentimes, they won’t know about any current defects, so finding out if there are any falls squarely on you.&nbsp;
 
 To do this, you’ll need to order some inspections. For all of my clients, I recommend they order a home inspection, pest inspection, roof report, and—depending on the home’s amenities—a chimney or pool inspection. All of these will cost between $800 and $1,000, but the information you gain from them is well worth it.&nbsp;
+
+Finally, figure out how much cash you'll need to close. Along with the home inspection we mentioned earlier, there are a number of additional expenses homebuyers must expect as they prepare to seal the deal. These expenses will vary slightly, but, in general, will run you between 2% and 5% of the purchase price.
 
 If you’d like to know more about how to prepare for your home purchase, **give me a call and I’d be happy to schedule a free consultation that will guide you through the process step by step.&nbsp;**
 
