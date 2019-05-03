@@ -28,7 +28,7 @@ In some counties, it’s customary for the seller to obtain all the inspections 
 
 1\. General home inspection.<br>2\. Termite inspection<br>3\. Roof inspection<br>4\. Chimney inspection (if applicable)<br>5\. Pool inspection (if applicable)
 
-In the counties where these inspections are obtained prior to placing the home on the market, it provides a lot of good information on the sales price that is set for your home. It allows the buyer more completely understand the true condition of your home prior to placing an offer on it.&nbsp;
+In the counties where these inspections are obtained prior to placing the home on the market, it provides a lot of good information on the sales price that is set for your home. It gives the buyer the chance to completely understand the true condition of your home prior to placing an offer on it.&nbsp;
 
 {% include pullquote.html %}
 
