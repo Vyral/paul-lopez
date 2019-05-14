@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers and Sellers: We Want to Serve You'
-date: 2019-05-14 15:09:25
+date: 2019-05-14 15:09:00
 tags:
 excerpt: >-
   If you’re ready to buy or sell, reach out to us today. We want to help you
