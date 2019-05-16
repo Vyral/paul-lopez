@@ -32,6 +32,6 @@ You see, after years of experience in this industry, I’ve got the tools, knowl
 
 My team and I understand that every buyer and seller is unique and that the way we approach each transaction must reflect this. That’s why when we begin working together, we’ll meet with you to discuss your wants and needs so that we can develop a personalized strategy for your success. Without this level of planning, transactions can drag out much longer than necessary—or worse: they could even fall apart entirely.
 
-The bottom line is this: **If you’re thinking of making a move, then reach out to me and let me be of service.** I would love the opportunity to develop a custom plan for your real estate goals, and then help you execute it in a way that maximizes your success and minimizes your stress. &nbsp;
+The bottom line is this: **If you’re thinking of making a move, then reach out to me and let me be of service.** I would love the opportunity to develop a custom plan for your real estate goals and then help you execute it in a way that maximizes your success and minimizes your stress. &nbsp;
 
 If you have any other questions or would like more information, please give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
