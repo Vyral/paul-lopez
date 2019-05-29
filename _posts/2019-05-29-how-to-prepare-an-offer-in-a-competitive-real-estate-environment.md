@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare an Offer in a Competitive Real Estate Environment
-date:
+date: 2019-05-29 16:36:21
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -22,13 +22,13 @@ youtube_code: Afc0O8CTOYo
 
 If you’re out shopping for homes, find the one you love, and are ready to make an offer on it, what do you do next? To answer that question, I’ll tell you how I work with my buyer clients when making an offer in a competitive environment.&nbsp;
 
-First, I sit down with them and have a detailed conversation about the pros and cons of the property to ensure that it meets all the needs that we discussed in their initial buyer consultation. I also encourage them to talk with their family (or anyone who’ll be living in the home with them) and make sure everyone’s in agreement about putting together a winning offer.&nbsp;
+First, **I sit down with them and have a detailed conversation about the pros and cons of the property** to ensure that it meets all the needs that we discussed in their initial buyer consultation. I also encourage them to talk with their family (or anyone who’ll be living in the home with them) and make sure everyone’s in agreement about putting together a winning offer.&nbsp;
 
-Next, I have a conversation with the listing agent to find out if the seller has any particular needs we can fulfill.&nbsp;
+Next, **I have a conversation with the listing agent** to find out if the seller has any particular needs we can fulfill.&nbsp;
 
 {% include pullquote.html %}
 
-After that, we examine what the market is doing in relation to the home’s value. By looking at the MLS, we’ll come up with a price that’s based on comparable homes for sale within the same neighborhood. The final price you offer is up to you, but this data will help you make an educated decision.&nbsp;
+After that, **we examine what the market is doing in relation to the home’s value.** By looking at the MLS, we’ll come up with a price that’s based on comparable homes for sale within the same neighborhood. The final price you offer is up to you, but this data will help you make an educated decision.&nbsp;
 
 Lastly, I prepare the offer itself. We only get one chance at a first impression, so when the listing agent opens your offer, every detail needs to be covered and they shouldn’t have any questions about it.&nbsp;
 
