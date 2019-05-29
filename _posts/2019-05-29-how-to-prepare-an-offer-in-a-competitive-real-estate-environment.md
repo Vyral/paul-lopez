@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare an Offer in a Competitive Real Estate Environment
-date:
+date: 2019-05-29 16:26:56
 tags:
   - Home Buyer Tips
   - Real Estate
