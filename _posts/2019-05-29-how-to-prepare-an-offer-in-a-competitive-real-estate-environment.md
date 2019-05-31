@@ -9,7 +9,7 @@ excerpt: >-
   If you want to prepare your offer so that it gets accepted in a competitive
   real estate environment like ours, here’s what you need to do.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Paul+Lopez/Paul+Lopez+Real+Estate+_+How+to+Prepare+an+Offer+in+a+Competitive+Real+Estate+Environment.mp4
+  https://vyralmarketing.s3.amazonaws.com/Paul+Lopez/Paul+Lopez+Real+Estate+_+How+to+Prepare+an+Offer+in+a+Competitive+Real+Estate+Environment+(1).mp4
 pullquote: We only get one chance at a first impression.
 enclosure_type: video/mp4
 enclosure_time:
