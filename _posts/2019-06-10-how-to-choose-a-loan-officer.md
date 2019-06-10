@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Choose a Loan Officer
-date: 2019-06-10 16:54:59
+date: 2019-06-10 04:54:00
 tags:
   - Real Estate
   - Home Buyer Tips
