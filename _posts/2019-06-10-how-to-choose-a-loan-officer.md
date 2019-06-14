@@ -25,11 +25,11 @@ youtube_code: s-zKyBB3_Gg
 
 Our current market conditions offer a unique set of circumstances. For one thing, interest rates are still at historic lows. This makes buying a home quite affordable.
 
-Before you can take advantage of these circumstances, however, you’ll need to choose a loan officer to work with. So, should you choose a local professional, or will you work with a big-box bank?&nbsp;
+Before you can take advantage of these circumstances, however, you’ll need to choose a loan officer to work with. So, should you choose a local professional, or will you work with a big bank?&nbsp;
 
-There’s actually no one-size-fits-all answer. For some, working with a big bank (like Wells Fargo) may be the right way to go. For others, working with an independent loan officer may be best.&nbsp;
+There’s actually no one-size-fits-all answer. For some, working with a big bank (like Wells Fargo, Bank of America, or Capital One) may be the right way to go. For others, working with an independent loan officer may be best.&nbsp;
 
-This is where I come in. My team and I have the tools, knowledge, and experience to help you determine which option is best for your personal circumstances.&nbsp;
+This is where I come in. My team and I have the tools, knowledge, and experience to help you determine which option is best for your personal opportunity.&nbsp;
 
 {% include pullquote.html %}
 
