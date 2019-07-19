@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Hire the Right Agent for Your Transaction
-date: 2019-07-19 16:10:21
+date: 2019-07-19 16:10:00
 tags:
   - Real Estate
 excerpt: >-
