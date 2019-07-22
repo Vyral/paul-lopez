@@ -21,7 +21,7 @@ youtube_code: 5XGe83MqVWY
 
 If you’re thinking about making a move in real estate—whether it be to buy, sell, or rent a property—choosing the right agent is an invaluable aspect of your future success. Today I’ll discuss three factors to consider in an agent to help you make sure you’re hiring the very best professional help for your next transaction:
 
-**1\. Consider their experience.** There are many steps in the real estate process, and some potential issues are predictable while others are not. Agents with experience in these matters will help get you through the process with a little stress as possible.
+**1\. Consider their experience.** There are many steps in the real estate process, and some potential issues are predictable while others are not. Agents with experience in these matters will help get you through the process with as little stress as possible.
 
 **2\. Consider their communication skills.** The best agent to hire is one who will do their best to proactively communicate with you to keep you up to date on the transaction. This may occur via phone, email, or text—whichever works best to keep them in consistent contact with you.
 
