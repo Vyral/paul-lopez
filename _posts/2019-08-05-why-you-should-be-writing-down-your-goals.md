@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-date: 2019-08-05 14:42:34
+date: 2019-08-05 02:42:00
 tags:
   - Real Estate
   - Home Buyer Tips
