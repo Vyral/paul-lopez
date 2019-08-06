@@ -22,7 +22,7 @@ youtube_code: 2451mK6HNGQ
 
 Are you thinking about buying your very first home, but you don’t quite know how it’s going to happen? Well, **today I want to encourage you to make homeownership a goal and write it down.** Then review your goal as often as you possibly can to keep it fresh in your mind.&nbsp;
 
-Not too long ago, I had a specific goal about buying a piece of property. I wrote it down, looked at it daily, and over time my subconscious went to work for me and I made the necessary steps to make that goal happen. **I reduced some debt, got rid of a few other things, and I was able to get the property that was important to me.**
+Not too long ago, I had a specific goal about buying a piece of property. I wrote it down, looked at it daily, and over time, my subconscious went to work for me and I took the necessary steps to make that goal happen. **I reduced some debt, got rid of a few other things, and I was able to get the property that was important to me.**
 
 {% include pullquote.html %}
 
