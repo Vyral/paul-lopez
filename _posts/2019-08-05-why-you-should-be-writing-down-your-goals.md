@@ -26,6 +26,6 @@ Not too long ago, I had a specific goal about buying a piece of property. I wrot
 
 {% include pullquote.html %}
 
-It all started with a goal. What are your personal and professional goals? I want you to write them down and look at them every day. One day, when your goals have been realized, you’ll be grateful that you took the step to write them down.
+It all started with a goal. What are your personal and professional goals? I want you to write them down and look at them every day. One day, when your goals have been accomplished, you’ll be grateful that you took the step to write them down.
 
 If you have any questions for me in the meantime about real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
