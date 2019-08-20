@@ -5,7 +5,7 @@ date: 2019-08-20 16:07:00
 tags:
 excerpt: 'If you’re unsure where to start as a homebuyer, this strategy will help you.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Paul+Lopez/The+Strategy+That+Will+Find+the+Right+Home+for+You+and+Your+Family.mp4
+  https://vyralmarketing.s3.amazonaws.com/Paul+Lopez/The+Strategy+That+Will+Find+the+Right+Home+for+You+and+Your+Family+(1).mp4
 pullquote: >-
   I’ve employed this strategy for over 20 years, and it’s one of the most
   effective ways to find a home that meets the needs of your family.
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '-BS4ih-i-oI'
+youtube_code: 9tQjkx2fyzc
 ---
 
 {% include youtube.html %}
