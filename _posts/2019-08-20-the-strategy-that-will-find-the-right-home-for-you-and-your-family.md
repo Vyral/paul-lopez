@@ -20,9 +20,9 @@ youtube_code: 9tQjkx2fyzc
 
 As a homebuyer, what steps must you take to ensure you find the right home for you and your family?
 
-**First, choose a Realtor to work with.** It’s important to start with this task because a good Realtor will help formulate your strategy. When it comes to buying a home, no two scenarios are exactly alike, which means there’s no one-size-fits-all solution. Your Realtor will guide you through the process, remind you of your original objectives, and make sure you meet them.&nbsp;
+**First, choose an experienced Real Estate Broker to work with.** It’s important to start with this task because a good Realtor will help formulate your strategy. When it comes to buying a home, no two scenarios are exactly alike, which means there’s no one-size-fits-all solution. Your Realtor will guide you through the process, remind you of your original objectives, and make sure you meet them.&nbsp;
 
-When it comes to selecting a home to purchase, I recommend thinking of it as a process of elimination. You don’t want to miss out on anything available, so begin by identifying which cities you want to live in. This will boil down to several different factors, including your buying power, budget, and the location of these cities with respect to your daily commute.&nbsp;
+When it comes to selecting a home to purchase, I recommend thinking of it as a process of elimination. You don’t want to miss out on anything available, so begin by identifying which cities you want to live in. This will narrow down to several different factors, including your buying power, budget, and the location of these cities with respect to your daily commute.&nbsp;
 
 After you’ve settled on one city, narrow your focus further to the neighborhoods of that city. This will be determined by factors such as school districts, shopping centers, your work commute, etc.&nbsp;
 
@@ -36,6 +36,6 @@ Meanwhile, you should be communicating with your Realtor the information you’v
 
 After you talk to your Realtor, schedule in-person visits to the homes on your short list. You started big, but now you’ve narrowed your search all the way down to the homes you may want to make an offer on. It’s during this point your Realtor should remind you of your original objectives and make sure the homes you see in person will meet your needs.&nbsp;
 
-**I’ve employed this strategy for over 20 years, and it’s one of the most effective ways to find a home that meets the needs of your family.**&nbsp; After all is said and done, you and your Realtor will write a strong offer and, if it’s accepted, begin closing on your new home.&nbsp;
+**I’ve employed this strategy for close to 20 years, and it’s one of the most effective ways to find a home that meets the needs of your family.**&nbsp; After all is said and done, you and your Realtor will write a strong offer and, if it’s accepted, begin closing on your new home.&nbsp;
 
 If you’d like to talk more about the best home buying strategy for you or you have any other real estate needs I can take care of, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
