@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking These Rules Will Ruin Your Mortgage
-date: 2019-09-06 18:28:29
+date: 2019-09-06 18:28:00
 tags:
 excerpt: >-
   If a mortgage is in your future, I have some tips to share today that could
@@ -22,7 +22,7 @@ When it comes time for your mortgage lender to submit your documentation to the 
 
 **You’ve taken a lot of time to research and carefully select the property you want to call home or a property that you want to invest in.** Whatever the case may be, you want to make sure you take these four rules into account so your loan process goes as smooth as possible:
 
-**1\. Don’t change employment.** There are certain circumstances that come up where you feel that it’s time to leave your job, quit your job, or look for a new one. However, when your loan is in the underwriting process for the purchase of a home, stay exactly where you are financially until after closing.
+**1\. Don’t change employment.** There are certain circumstances that come up where you feel that it’s time to leave your job and look for a new one. However, when your loan is in the underwriting process for the purchase of a home, stay exactly where you are financially until after closing.
 
 {% include pullquote.html %}
 
