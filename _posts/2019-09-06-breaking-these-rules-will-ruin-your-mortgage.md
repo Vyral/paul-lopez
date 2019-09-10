@@ -32,4 +32,4 @@ When it comes time for your mortgage lender to submit your documentation to the 
 
 **4\. Don’t open, close, or transfer bank accounts.** Your loan officer has already taken your current financial picture into consideration, so it’s wise to keep it exactly where it is through the underwriting process. This underwriting time frame can be difficult to deal with, but in the end, it’s a very rewarding experience.
 
-Keep in mind that reciving a loan may take a while, so please be patient and keep a good attitude through this process. If you have any questions for me about the mortgage process or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about the mortgage process or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
