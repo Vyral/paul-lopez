@@ -18,7 +18,7 @@ youtube_code: 4wpSZ1zb0Xk
 
 {% include youtube.html %}
 
-When it comes time for your mortgage lender to submit your documentation to the underwriting department, it can take anywhere from three to four weeks for them to come up with a decision. When you’re going through this process, the lender may come back to you and ask for additional documentation or to resubmit prior documents. Keep in mind that you’re asking the bank to lend you a large amount of money and they want to get as much documentation as they need in order to process the loan.
+When it comes time for your mortgage lender to submit your documentation to the underwriting department, it can take anywhere from three to four weeks for them to come up with a decision. When you’re going through this process, the lender may come back to you and ask for additional documentation or to resubmit prior documents. Keep in mind that you’re asking the bank to lend you a large amount of money and they want to get as much documentation as they need in order to process the loan, so please be patient and keep a good attitude through this as this can be a lengthy process.&nbsp;
 
 **You’ve taken a lot of time to research and carefully select the property you want to call home or a property that you want to invest in.** Whatever the case may be, you want to make sure you take these four rules into account so your loan process goes as smooth as possible:
 
