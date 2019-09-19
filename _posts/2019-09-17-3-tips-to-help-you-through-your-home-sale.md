@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Help You Through Your Home Sale
-date: 2019-09-17 19:55:46
+date: 2019-09-17 19:55:00
 tags:
 excerpt: >-
   If a home sale is in your future, I’ve got a few helpful tips for you today to
@@ -18,7 +18,7 @@ youtube_code: Z-80Rvmpbj4
 
 {% include youtube.html %}
 
-Are you considering selling your home and started to realize what an emotional rollercoaster it can be? From choosing your broker, to preparing your home for sale, and identifying your new home, all while life is still happening.
+Are you considering selling your home and started to realize what an emotional rollercoaster it can be? You have to choose your broker, prepare your home for sale, and identify your new home all while life is still happening.
 
 This is where your real estate broker can bring calmness and clarity to an event that can be very stressful if not dealt with precisely. **Here are several key areas that you should focus on as a home seller to create a clear home-selling strategy:**
 
