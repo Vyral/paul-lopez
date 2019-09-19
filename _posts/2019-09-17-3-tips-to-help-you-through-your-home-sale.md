@@ -18,7 +18,7 @@ youtube_code: Z-80Rvmpbj4
 
 {% include youtube.html %}
 
-Are you considering selling your home and started to realize what an emotional roller coaster it can be? You have to choose your broker, prepare your home for sale, and identify your new home all while life is still happening.
+Are you considering selling your home and starting to realize what an emotional roller coaster it can be? You have to choose your broker, prepare your home for sale, and identify your new home all while life is still happening.
 
 This is where your real estate broker can bring calmness and clarity to an event that can be very stressful if not dealt with precisely. **Here are several key areas that you should focus on as a home seller to create a clear home-selling strategy:**
 
