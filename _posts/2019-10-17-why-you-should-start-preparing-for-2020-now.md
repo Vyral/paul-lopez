@@ -22,9 +22,9 @@ Three months from now, 2019 will be over and we’ll be into 2020. That makes ri
 
 **If you’re doing any financial planning and thinking about refinancing or buying a home, you should know that interest rates are still incredibly low right now.** A 30-year fixed-rate mortgage can be had for around 3.5% interest, while 15-year terms can be had for around 3%. Now is a great time to check up on your current mortgage to see if you can save from these changes.
 
-{% include pullquote.html %}
-
 Thanksgiving and Christmas are coming up. Have you budgeted for these holidays? **If not, it’s a good idea to do so now.**
+
+{% include pullquote.html %}
 
 Finally, is your home ready to withstand the winter months? Check your exterior to make sure there are no cracks, and make sure your gutters are clean and in proper working order.
 
