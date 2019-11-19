@@ -31,4 +31,4 @@ The point is, **there are so many great opportunities around us that are so simp
 
 I love helping families with their real estate needs. Whether it’s buying, selling, or renting a home, I love to connect with my clients and finding ways that they can achieve their goals.&nbsp;
 
-Id’ love to connect with you and be of service any way I can, so reach out to me anytime if you have any real estate needs.
+I'd love to connect with you and be of service any way I can, so reach out to me anytime if you have any real estate needs.
