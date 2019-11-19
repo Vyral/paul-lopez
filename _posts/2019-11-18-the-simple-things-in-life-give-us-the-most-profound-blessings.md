@@ -25,7 +25,7 @@ I have another friend I don’t get to see very often, but whenever I do see the
 
 {% include pullquote.html %}
 
-My dad is my greatest friend, and regardless of where I am in life, he has an extra special way of picking me up and encouraging me that the sky is the limit and there are endless opportunities of what I can do with my life.&nbsp;
+My dad is my greatest friend, and regardless of where I am in life, he has an extra special way of picking me up and encouraging me that the sky is the limit and there are endless opportunities for what I can do with my life.&nbsp;
 
 The point is, **there are so many great opportunities around us that are so simple,** and when we take a moment to look at the space around us and the wonderful things in our life, you can feel a sense of profound gratitude fill your day and give you a boost of energy.&nbsp;
 
