@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Achieve Your 2020 Goals
-date: 2020-01-17 19:41:34
+date: 2020-01-17 19:41:00
 tags:
   - Real Estate
 excerpt: I have three tips to share today that will help you accomplish more in 2020.
@@ -20,7 +20,7 @@ Welcome to 2020\! Now is a great time to take a moment and think about the event
 
 **The first thing you should do is take a look at the next 11 months before you.** Remember that the end of the year is filled with holidays and events. Plan out the year according to the calendar and the events that will happen this year.
 
-**Next, take a closer look at the goals you want to achieve in 2020.** Find out what brings meaning to the activities that you do every day like showing up to your job, prospecting, and how it all brings meaning to your purpose. When you look at your purpose, how does that relate to the goals you want to achieve in 2020? When it comes time to accomplish and achieve your goals, I encourage you to become present and work on the things that you want to accomplish daily.
+**Next, take a closer look at the goals you want to achieve in 2020.** Find out what brings meaning to the activities that you do every day like showing up to your job and prospecting, and how it all brings meaning to your purpose. When you look at your purpose, how does that relate to the goals you want to achieve in 2020? When it comes time to accomplish your goals, I encourage you to be truly present in your daily work.
 
 {% include pullquote.html %}
 
