@@ -19,7 +19,7 @@ client:
   name: Paul Lopez
   title:
   license_number: 'DRE #01393330'
-  about_markdown: >
+  about_markdown: >-
     Home sellers and buyers want relationship-building, strategic planning and
     tough negotiation from the real estate agent they select. Since 2001, I have
     brought these strengths to my clients and learned a lot about the industry.
@@ -92,7 +92,7 @@ podcast:
   title: '-- MARKET -- Real Estate Podcast with Paul Lopez'
   categories:
     - Education
-  image: /img/podcast.jpg
+  image: /uploads/twitter.jpg
   subtitle: >-
     Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
     -- Area Real Estate Market
