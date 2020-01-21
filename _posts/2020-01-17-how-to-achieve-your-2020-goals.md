@@ -9,8 +9,8 @@ enclosure:
 pullquote: Find out what brings meaning to the activities that you do every day.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/paul-lopez---jan-2020---1---youtube-edit.jpg
 youtube_code: N0RHdSiw1sM
 ---
 
