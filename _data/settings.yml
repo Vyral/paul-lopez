@@ -110,15 +110,16 @@ podcast:
   author: Paul Lopez
 images:
   client_headshot_path: /uploads/2019.jpg
-  hero_logo_path: /uploads/gold-logo-png.png
+  hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#f6d585'
+  brand_color: '#360346'
   theme_color: '#999999'
+  accent_color: '#f6d585'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -133,7 +134,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: 'rgba(0, 0, 0, 0)'
-  button_text_color: '#123456'
+  button_text_color: '#360346'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
