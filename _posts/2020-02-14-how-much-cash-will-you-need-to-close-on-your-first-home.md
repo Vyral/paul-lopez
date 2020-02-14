@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Cash Will You Need to Close on Your First Home?
-date:
+date: 2020-02-14 16:45:06
 tags:
 excerpt:
 enclosure:
