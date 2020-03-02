@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/lopez-youtube-2.jpg
-youtube_code: wsHjdf1GaFw
+youtube_code: 6k53DKOEHhc
 ---
 
 {% include youtube.html %}
