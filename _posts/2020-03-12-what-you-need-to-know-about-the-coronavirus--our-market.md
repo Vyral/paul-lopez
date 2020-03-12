@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About the Coronavirus & Our Market
-date:
+date: 2020-03-12 18:22:00
 tags:
 excerpt: >-
   If you’re concerned about the coronavirus’ impact on our real estate market,
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/lopez-youtube-3.jpg
 youtube_code: lTjwtOhowVc
 ---
 
-{% include youtube.html %}<center>If you’re concerned about the coronavirus’ impact on our real estate market, here’s what you need to know.</center>
+{% include youtube.html %}
+
+<center>If you&rsquo;re concerned about the coronavirus&rsquo; impact on our real estate market, here&rsquo;s what you need to know.</center>
+
+&nbsp;
 
 As of late, the coronavirus has caused global uncertainty and a U.S. stock market correction that no one saw coming—not to mention the impact it’s had on lives and families around the world.&nbsp;
 
