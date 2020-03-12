@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/lopez-youtube-3.jpg
 youtube_code: lTjwtOhowVc
 ---
 
-{% include youtube.html %}If you’re concerned about the coronavirus’ impact on our real estate market, here’s what you need to know.
+{% include youtube.html %}<center>If you’re concerned about the coronavirus’ impact on our real estate market, here’s what you need to know.</center>
 
 As of late, the coronavirus has caused global uncertainty and a U.S. stock market correction that no one saw coming—not to mention the impact it’s had on lives and families around the world.&nbsp;
 
